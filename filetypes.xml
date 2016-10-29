@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="volume_left_1" type="Images" />
       <mapping pattern="negative" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
